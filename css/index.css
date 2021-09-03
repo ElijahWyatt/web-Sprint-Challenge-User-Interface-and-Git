@@ -66,6 +66,16 @@ p {
     line-height: 1.4;
 }
 
+.header{
+    width:800px;
+    margin: 0 auto;
+}
+
+.header img{
+    margin:2% 0 2%;
+
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -144,3 +154,5 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Header Styling Below */
