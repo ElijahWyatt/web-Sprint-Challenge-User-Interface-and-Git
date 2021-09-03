@@ -207,3 +207,10 @@ footer nav a {
 .box10{
     background: dodgerblue;
 }
+
+/* This is where i laid out all my styling for the About Page */
+
+.about-page section{
+    border-bottom: 1px dashed black;
+    margin: 1% auto 1%;
+}
